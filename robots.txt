@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hbcesar.github.io/sitemap.xml
+Sitemap: https://hbcesar.github.io/hbcesar//sitemap.xml
