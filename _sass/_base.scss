@@ -382,7 +382,7 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem;
 
     a {
       i::before {
@@ -1138,4 +1138,8 @@ swiper-container {
   .ps-algorithm.with-caption > .ps-line:first-child {
     border-bottom: 2px solid var(--global-text-color);
   }
+}
+
+.texto-post p {
+  text-align: justify;
 }
