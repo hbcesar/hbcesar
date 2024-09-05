@@ -30,13 +30,13 @@
 - title: Experience
   type: time_table
   contents:
-     - title: FAIRification Steward
+    - title: FAIRification Steward
       institution: European Joint Programme on Rare Diseases (EJP RD)
       year: 2020 - 2024
       description:
         - At EJP RD, I work as a member of the FAIRification Stewards working group. The stewards’ aims include identifying the needs and providing advice regarding the implementation of a FAIR patient registry, as well as promoting convergence in FAIR implementation choices between the registries and with those of the EJP RD Virtual Platform. 
 
-      - title: Software Developer and Ontologist
+    - title: Software Developer and Ontologist
       institution: Hospital Israelita Albert Einstein, São Paulo, Brazil
       year: 2019-2020
       description:
