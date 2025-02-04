@@ -22,7 +22,7 @@
       description:
         - Researcher at NEMO, the Ontology and Conceptual Modeling Research Group, which investigates the application of domain and fundamental ontologies, as well as information modeling, corporate modeling, agent-based systems and the Semantic Web.
     - title: Bachelor in Computer Science
-      institution: Federal University of Espírito Santo, Vitória, Brazil
+      institution: Federal University of Espírito Santo and University of Toronto (16 month exchange programme)
       year: 2013 - 2017
       # description:
       #   - Researcher at NEMO, the Ontology and Conceptual Modeling Research Group, which investigates the application of domain and fundamental ontologies, as well as information modeling, corporate modeling, agent-based systems and the Semantic Web.
@@ -30,11 +30,16 @@
 - title: Experience
   type: time_table
   contents:
+    - FAIR Data Steward
+      institution: Leiden University Medical Centre
+      year: 2024 - current
+      # description:
+
     - title: FAIRification Steward
       institution: European Joint Programme on Rare Diseases (EJP RD)
       year: 2020 - 2024
       description:
-        - At EJP RD, I work as a member of the FAIRification Stewards working group. The stewards’ aims include identifying the needs and providing advice regarding the implementation of a FAIR patient registry, as well as promoting convergence in FAIR implementation choices between the registries and with those of the EJP RD Virtual Platform. 
+        - At EJP RD, I worked as a member of the FAIRification Stewards working group. The stewards’ aims included identifying the needs and providing advice regarding the implementation of a FAIR patient registry, as well as promoting convergence in FAIR implementation choices between the registries and with those of the EJP RD Virtual Platform. 
 
     - title: Software Developer and Ontologist
       institution: Hospital Israelita Albert Einstein, São Paulo, Brazil
