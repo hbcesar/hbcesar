@@ -30,7 +30,7 @@
 - title: Experience
   type: time_table
   contents:
-    - FAIR Data Steward
+    - title: FAIR Data Steward
       institution: Leiden University Medical Centre
       year: 2024 - current
       # description:
