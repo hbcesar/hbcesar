@@ -15,4 +15,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate in Bioinformatics at Leiden University Medical Center, with a Master’s in Software Engineering. I specialize in using ontologies for translational research and AI applications. My experience includes coordinating data management projects and developing semantic models. I am passionate about advancing data reusability and interoperability in healthcare and research.
+I am a PhD candidate in Bioinformatics at Leiden University Medical Center, with a Master’s in Software Engineering. I specialize in using ontologies for translational research and AI applications. My experience includes coordinating data management projects and developing semantic models. I am passionate about advancing data reusability and interoperability in healthcare research.
