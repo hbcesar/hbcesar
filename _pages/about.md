@@ -17,4 +17,4 @@ social: true # includes social icons at the bottom of the page
 
 I am passionate about leveraging conceptual modelling and ontologies to transform health and life sciences research, making it more transparent and impactful. My work focuses on the principle that well-structured, ontology-based data significantly improves the performance and explainability of AI and Machine Learning systems.
 
-With a foundation in software engineering and expertise spanning the FAIR principles, OWL, RDF, SHACL, RML, SQL, and SPARQL, I thrive on interdisciplinary collaboration. My goal is to enhance how data is shared, integrated, and reused across complex domains.
+With a foundation in software engineering and expertise spanning the FAIR principles and the semantic web, I thrive on interdisciplinary collaboration. My goal is to enhance how data is shared, integrated, and reused across complex domains.
