@@ -11,16 +11,16 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD Candidate
+    - title: PhD in Bioinformatics
       institution: Leiden University Medical Centre, Leiden, The Netherlands
       year: 2020 - 2025
       description:
-        - I research the use of foundational ontologies and goal-based models to facilitate FAIRification planning and conceptual modelling of FAIR data.        
+        - My PhD work focused on the use of foundational ontologies and goal-based models to facilitate FAIRification planning and conceptual modelling of FAIR data.        
     - title: Masters in Software Engineering
       institution: Federal University of Espírito Santo, Vitória, Brazil
       year: 2018 - 2020
       description:
-        - Researcher at NEMO, the Ontology and Conceptual Modeling Research Group, which investigates the application of domain and fundamental ontologies, as well as information modeling, corporate modeling, agent-based systems and the Semantic Web.
+        - My master's research investigated the application of domain and foundational ontologies for goal modelling in software engineering.
     - title: Bachelor in Computer Science
       institution: Federal University of Espírito Santo and University of Toronto (16 month exchange programme)
       year: 2013 - 2017
