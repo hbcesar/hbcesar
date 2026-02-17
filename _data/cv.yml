@@ -14,13 +14,13 @@
     - title: PhD in Bioinformatics
       institution: Leiden University Medical Centre, Leiden, The Netherlands
       year: 2020 - 2025
-      description:
-        - My PhD work focused on the use of foundational ontologies and goal-based models to facilitate FAIRification planning and conceptual modelling of FAIR data.        
+      # description:
+      #   - My PhD work focused on the use of foundational ontologies and goal-based models to facilitate FAIRification planning and conceptual modelling of FAIR data.        
     - title: Masters in Software Engineering
       institution: Federal University of Espírito Santo, Vitória, Brazil
       year: 2018 - 2020
-      description:
-        - My master's research investigated the application of domain and foundational ontologies for goal modelling in software engineering.
+      # description:
+      #   - My master's research investigated the application of domain and foundational ontologies for goal modelling in software engineering.
     - title: Bachelor in Computer Science
       institution: Federal University of Espírito Santo and University of Toronto (16 month exchange programme)
       year: 2013 - 2017
@@ -30,6 +30,10 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Postdoctoral Research Associate 
+      institution: University of Illinois Urbana-Champaign
+      year: 2026 - present
+      
     - title: FAIR Data Steward
       institution: Leiden University Medical Centre
       year: 2024 - 2025
@@ -38,14 +42,14 @@
     - title: FAIRification Steward
       institution: European Joint Programme on Rare Diseases (EJP RD)
       year: 2020 - 2024
-      description:
-        - At EJP RD, I worked as a member of the FAIRification Stewards working group. The stewards’ aims included identifying the needs and providing advice regarding the implementation of a FAIR patient registry, as well as promoting convergence in FAIR implementation choices between the registries and with those of the EJP RD Virtual Platform. 
+      # description:
+      #   - At EJP RD, I worked as a member of the FAIRification Stewards working group. The stewards’ aims included identifying the needs and providing advice regarding the implementation of a FAIR patient registry, as well as promoting convergence in FAIR implementation choices between the registries and with those of the EJP RD Virtual Platform. 
 
     - title: Software Developer and Ontologist
       institution: Hospital Israelita Albert Einstein, São Paulo, Brazil
       year: 2019-2020
-      description:
-        - At Hospital Israelita Albert Einstein, I worked in the development, implementation and application of artificial intelligence and data analysis tools for the brazilian health care system (SUS) using technologies for semantic integration (e.g., ontologies) of databases from different sources.
+      # description:
+      #   - At Hospital Israelita Albert Einstein, I worked in the development, implementation and application of artificial intelligence and data analysis tools for the brazilian health care system (SUS) using technologies for semantic integration (e.g., ontologies) of databases from different sources.
 
 
 - title: Academic Interests
@@ -56,10 +60,10 @@
         - FAIRification planning (e.g., agile methods for FAIRification, goal-modelling for FAIRification)
         - FAIRification implementation and tooling
         - Training on FAIR and FAIRification
-    - title: Ontologies and eXplainable AI
+    - title: Ontologies and AI
       items:
         - Foundational Ontologies (e.g., Unified Foundational Ontology (UFO))
-        - Impact of Foundational Ontologies on eXplainable AI
+        - Impact of Foundational Ontologies on symbolic AI
         - Ontology mapping
 
 - title: Other Interests
