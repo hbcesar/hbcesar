@@ -8,26 +8,6 @@
     - name: Languages
       value: English, Portuguese
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD in Bioinformatics
-      institution: Leiden University Medical Centre, Leiden, The Netherlands
-      year: 2020 - 2025
-      thesis: "[PhD Thesis](https://hdl.handle.net/1887/4283926)"
-      # description:
-      #   - My PhD work focused on the use of foundational ontologies and goal-based models to facilitate FAIRification planning and conceptual modelling of FAIR data.        
-    - title: Masters in Software Engineering
-      institution: Federal University of Espírito Santo, Vitória, Brazil
-      year: 2018 - 2020
-      # description:
-      #   - My master's research investigated the application of domain and foundational ontologies for goal modelling in software engineering.
-    - title: Bachelor in Computer Science
-      institution: Federal University of Espírito Santo and University of Toronto (16 month exchange programme)
-      year: 2013 - 2017
-      # description:
-      #   - Researcher at NEMO, the Ontology and Conceptual Modeling Research Group, which investigates the application of domain and fundamental ontologies, as well as information modeling, corporate modeling, agent-based systems and the Semantic Web.
-
 - title: Experience
   type: time_table
   contents:
@@ -52,6 +32,26 @@
       # description:
       #   - At Hospital Israelita Albert Einstein, I worked in the development, implementation and application of artificial intelligence and data analysis tools for the brazilian health care system (SUS) using technologies for semantic integration (e.g., ontologies) of databases from different sources.
 
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Bioinformatics
+      institution: Leiden University Medical Centre, Leiden, The Netherlands
+      year: 2020 - 2025
+      thesis: "[PhD Thesis](https://hdl.handle.net/1887/4283926)"
+      # description:
+      #   - My PhD work focused on the use of foundational ontologies and goal-based models to facilitate FAIRification planning and conceptual modelling of FAIR data.        
+    - title: Masters in Software Engineering
+      institution: Federal University of Espírito Santo, Vitória, Brazil
+      year: 2018 - 2020
+      # description:
+      #   - My master's research investigated the application of domain and foundational ontologies for goal modelling in software engineering.
+    - title: Bachelor in Computer Science
+      institution: Federal University of Espírito Santo and University of Toronto (16 month exchange programme)
+      year: 2013 - 2017
+      # description:
+      #   - Researcher at NEMO, the Ontology and Conceptual Modeling Research Group, which investigates the application of domain and fundamental ontologies, as well as information modeling, corporate modeling, agent-based systems and the Semantic Web.
+
 
 - title: Academic Interests
   type: nested_list
@@ -61,13 +61,13 @@
         - FAIRification planning (e.g., agile methods for FAIRification, goal-modelling for FAIRification)
         - FAIRification implementation and tooling
         - Training on FAIR and FAIRification
-    - title: Ontologies and AI
+    - title: Ontologies and (neurosymbolic) AI
       items:
         - Foundational Ontologies (e.g., Unified Foundational Ontology (UFO))
-        - Impact of Foundational Ontologies on symbolic AI
+        - Impact of Foundational Ontologies on neurosymbolic AI
         - Ontology mapping
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Other topics:</u> In my free time, I like to read books about psychology.
+    - <u>Other topics:</u> In my free time, I like to read books about philosophy and psychology.
